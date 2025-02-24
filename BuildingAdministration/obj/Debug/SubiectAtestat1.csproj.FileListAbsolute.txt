@@ -1,0 +1,57 @@
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.Properties.Resources.resources
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.csproj.GenerateResource.cache
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\bin\Debug\BlocDB.mdf
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\bin\Debug\BlocDB_log.ldf
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\bin\Debug\SubiectAtestat1.exe.config
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\bin\Debug\SubiectAtestat1.exe
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\bin\Debug\SubiectAtestat1.pdb
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.exe
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.pdb
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.Admin.resources
+C:\Users\Elev\Desktop\12B\SubiectAtestat1\obj\Debug\SubiectAtestat1.WelcomeForm.resources
+D:\ProiectScoalaC#\bin\Debug\BlocDB.mdf
+D:\ProiectScoalaC#\bin\Debug\BlocDB_log.ldf
+D:\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe.config
+D:\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe
+D:\ProiectScoalaC#\bin\Debug\SubiectAtestat1.pdb
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.AssemblyReference.cache
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.SuggestedBindingRedirects.cache
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Admin.resources
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Locatar.resources
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Properties.Resources.resources
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.WelcomeForm.resources
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.GenerateResource.cache
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.CoreCompileInputs.cache
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.exe
+D:\ProiectScoalaC#\obj\Debug\SubiectAtestat1.pdb
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\bin\Debug\BlocDB.mdf
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\bin\Debug\BlocDB_log.ldf
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe.config
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.pdb
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Admin.resources
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Locatar.resources
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.WelcomeForm.resources
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.exe
+C:\Users\Profesor\Desktop\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.pdb
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\bin\Debug\BlocDB.mdf
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\bin\Debug\BlocDB_log.ldf
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe.config
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.exe
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\bin\Debug\SubiectAtestat1.pdb
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.AssemblyReference.cache
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Admin.resources
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Locatar.resources
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.Properties.Resources.resources
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.WelcomeForm.resources
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.GenerateResource.cache
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.csproj.CoreCompileInputs.cache
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.exe
+C:\Users\Asistent\Downloads\Info\Info\C# scoala\ProiectScoalaC#\obj\Debug\SubiectAtestat1.pdb
