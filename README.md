@@ -1,7 +1,7 @@
 # Buidling Administration App
 This application is a simple apartment building administration app that can be used by both the administrator and the residents of the building.
 
-# How it works?
+# How does it work?
 1. The first window is the Login Window. Each user has a username and a password.
    - For admin: Username - admin, Password - admin
    - For residents: Username - user, Password - user
